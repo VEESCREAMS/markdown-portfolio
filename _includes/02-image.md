@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![What a happy cat!!!!](https://i.ytimg.com/vi/DgBB1K6R8-0/hqdefault.jpg)
